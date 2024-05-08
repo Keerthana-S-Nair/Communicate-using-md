@@ -5,4 +5,4 @@
 ##### each
 ###### header
 
-I tried all 6 headers in this file!
+![image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
